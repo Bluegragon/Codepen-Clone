@@ -1,0 +1,23 @@
+
+
+.container-div{
+  display:flex;
+  justify-content:space-evenly;
+  align-content: space-between;
+}
+button{
+  border:none;
+  margin:2px;
+}
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+body{
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.root{
+  min-height: 100vh;
+  min-width: 100vw;
+}
